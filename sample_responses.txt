@@ -1,0 +1,16 @@
+Sample Chatbot Questions and Answers
+
+Q: What is the return policy?
+A: You can return products within 30 days of receipt.
+
+Q: Do you ship internationally?
+A: Yes, we ship internationally to over 50 countries.
+
+Q: How can I contact customer service?
+A: Customer service can be contacted via email or our support page.
+
+Q: Which payment methods are accepted?
+A: We accept Visa, MasterCard, PayPal, and Apple Pay.
+
+Q: How do I track my order?
+A: You can track your order using the tracking link sent to your email.
